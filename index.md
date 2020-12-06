@@ -1,5 +1,7 @@
 ## [Recipes](recipes/index.md)
 
+## Other
+
 - [Applications](applications/index.md)
 - [Guitar](guitar/index.md)
 - [Machine setup](machines/index.md)
