@@ -180,6 +180,7 @@ Soups/stews
 - [Olive garden zuppa toscana](Olive_garden_zuppa_toscana.md)
 - [Roasted tomato basil soup](Roasted_tomato_basil_soup.md)
 - [Tikka masala](Tikka_masala.md)
+- [Tortellini soup](tortellini_soup.md)
 - [White chili](White_chili.md)
 
 
